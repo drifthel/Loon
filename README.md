@@ -70,19 +70,6 @@ Loon 插件整理 · 广告过滤 · 应用优化 · 网络分流
 | [Sub-Store](https://loon.103516.xyz/Plugin/Sub-Store.lpx) | 订阅管理 |
 | [BoxJs](https://loon.103516.xyz/Plugin/BoxJs.lpx) | 脚本管理 |
 
----
-
-## Configuration | 配置文件
-
-个人 Loon 配置文件：`loon.lcf`
-
-| 操作 | 链接 |
-|:--|:--|
-| 查看配置 | [View](https://github.com/drifthel/Loon/blob/main/Config/loon.lcf) |
-| 导入 Loon | [Import](https://www.nsloon.com/openloon/import?sub=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FConfig%2Floon.lcf) |
-| 配置目录 | [GitHub](https://github.com/drifthel/Loon/tree/main/Config) |
-
----
 
 ## Remote Rules | 远程分流
 
