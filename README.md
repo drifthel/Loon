@@ -13,8 +13,8 @@ A collection of Loon plugins maintained by drifthel.
 
 针对常用 iOS 应用进行广告过滤，减少开屏广告、信息流广告及不必要的推广内容。
 
-- **Install:** [添加到 Loon](https://raw.githubusercontent.com/drifthel/Loon-Plugin/main/blockAds.plugin)
-- **Source:** [GitHub 源码](https://github.com/drifthel/Loon-Plugin/blob/main/blockAds.plugin)
+- **Install:** [添加到 Loon]((https://raw.githubusercontent.com/drifthel/Loon/main/Plugins/blockAds.plugin)
+- **Source:** [GitHub 源码](https://github.com/drifthel/Loon/main/Plugins/blockAds.plugin))
 
 ### Modifications & Improvements
 
