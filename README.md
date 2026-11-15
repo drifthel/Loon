@@ -42,7 +42,6 @@ Loon 插件整理 · 广告过滤 · 应用优化 · 网络分流
 | Plugin | Description |
 |:--|:--|
 | [blockAds](https://raw.githubusercontent.com/drifthel/Loon/main/Plugins/blockAds.plugin) | 自定义广告过滤 |
-Modifications & Improvements
 
 * MLOL Recommendation Request Blocking — 新增对 mlol.qt.qq.com/go/recommend 推荐接口的拦截规则，阻止相关推荐请求。
 ### Apps | 应用插件
