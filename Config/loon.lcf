@@ -255,7 +255,6 @@ https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Remove_ads_by_keli.lpx, pin=true, enabled=true
 https://loon.103516.xyz/Plugin/Sub-Store.lpx, policy=时延优选, enabled=true
-https://loon.103516.xyz/Plugin/Script-Hub.lpx, policy=时延优选, enabled=true
 https://loon.103516.xyz/Plugin/BoxJs.lpx, policy=时延优选, enabled=true
 
 [MITM]
