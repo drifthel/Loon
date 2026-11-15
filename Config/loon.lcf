@@ -1,3 +1,10 @@
+# ==========================================
+# Loon Configuration
+# Maintained by drifthel
+# Threads: https://www.threads.com/@drifthel
+# GitHub: https://github.com/drifthel/Loon
+# ==========================================
+
 [General]
 # IP查询模式
 ip-mode = v4-only
