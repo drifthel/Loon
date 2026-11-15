@@ -23,12 +23,33 @@ A collection of Loon plugins maintained by drifthel.
 - **MLOL Recommendation Request Blocking** — 新增对 `mlol.qt.qq.com/go/recommend` 推荐接口的拦截规则，阻止相关推荐请求。
 Configuration
 
+Configuration
+
+Configuration
+
 drifthel.lcf
 
-个人 Loon 配置文件，包含 DNS 设置、代理策略组、节点筛选、分流规则及插件订阅。
+个人 Loon 配置文件，支持在线查看、跳转至 Loon 导入，以及查看 GitHub 源代码。
 
-* Config: 查看配置文件
-* Raw: 获取原始配置
+<p align="center">
+  <a href="https://github.com/drifthel/Loon/blob/main/Config/drifthel.lcf">
+    <img src="https://img.shields.io/badge/View-查看配置-007AFF?style=for-the-badge" alt="查看配置">
+  </a>
+  <a href="https://www.nsloon.com/openloon/import?sub=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FConfig%2Fdrifthel.lcf">
+    <img src="https://img.shields.io/badge/Import-导入到_Loon-34C759?style=for-the-badge" alt="导入到 Loon">
+  </a>
+  <a href="https://github.com/drifthel/Loon/tree/main/Config">
+    <img src="https://img.shields.io/badge/Source-GitHub源码-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 源码">
+  </a>
+</p>
+
+功能说明
+
+* 查看配置： 在线查看 drifthel.lcf 配置内容。
+* 导入到 Loon： 点击后跳转至 Loon 导入页面，导入此配置。
+* GitHub 源码： 浏览 Config 目录中的配置源文件。
+
+注意：请先将 drifthel.lcf 上传至仓库的 Config 目录。导入前请根据自己的节点订阅调整配置。公开版不包含个人 MITM 证书及私钥。
 
 1. Plugins（插件列表）
 
