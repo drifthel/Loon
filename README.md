@@ -16,6 +16,16 @@ A collection of Loon plugins maintained by drifthel.
 - **Install:** [添加到 Loon](https://raw.githubusercontent.com/drifthel/Loon-Plugin/main/blockAds.plugin)
 - **Source:** [GitHub 源码](https://github.com/drifthel/Loon-Plugin/blob/main/blockAds.plugin)
 
+### Modifications & Improvements
+
+- **MLOL Recommendation Request Blocking** — 新增对 `mlol.qt.qq.com/go/recommend` 推荐接口的拦截规则，阻止相关推荐请求。
+
+### Credits
+
+Original rules are credited to their respective authors.
+
+Modified and maintained by **drifthel**.
+
 
 针对常用 iOS 应用及网站进行广告过滤，减少开屏广告、信息流广告和不必要的推广内容。
 
