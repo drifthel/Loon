@@ -1,5 +1,6 @@
 
 
+
 const body = $response.body;
 
 if (typeof body !== "string" || !body) {
@@ -41,7 +42,7 @@ if (typeof body !== "string" || !body) {
     }
 
     // =========================
-    // 清理好物推荐及商品广告
+    // 清理好物推荐和商品广告
     // =========================
     function cleanGoods() {
         document.querySelectorAll('a').forEach(a => {
@@ -85,7 +86,19 @@ if (typeof body !== "string" || !body) {
     }
 
     // =========================
-    // 清理底部 App 推广 Banner
+    // 清理 IT之家手机网页版底部 App Banner
+    // 已确认的实际 CSS 选择器
+    // =========================
+    function cleanMobileBanner() {
+        document.querySelectorAll(
+            '.open-app-banner'
+        ).forEach(el => {
+            el.remove();
+        });
+    }
+
+    // =========================
+    // 清理底部其他 App 推广悬浮层
     // =========================
     function cleanAppBanner() {
         document.querySelectorAll(
@@ -135,17 +148,41 @@ if (typeof body !== "string" || !body) {
 
             // 只处理页面顶部右侧入口
             if (
-                rect.top >= 0 &&
+                rect.top >= -10 &&
                 rect.top < 180 &&
-                rect.left > window.innerWidth * 0.45
+                rect.left > window.innerWidth * 0.4
             ) {
-                a.remove();
+                let box = a;
+
+                // 尝试移除入口所在的小容器
+                for (let i = 0; i < 3; i++) {
+                    const parent = box.parentElement;
+
+                    if (!parent || isProtected(parent)) break;
+
+                    const parentRect = parent.getBoundingClientRect();
+
+                    if (
+                        parentRect.width < 220 &&
+                        parentRect.height < 100 &&
+                        parentRect.top >= -10 &&
+                        parentRect.top < 180 &&
+                        parentRect.left > window.innerWidth * 0.3
+                    ) {
+                        box = parent;
+                    } else {
+                        break;
+                    }
+                }
+
+                box.remove();
             }
         });
     }
 
     function clean() {
         cleanGoods();
+        cleanMobileBanner();
         cleanAppBanner();
         cleanTopBuy();
     }
@@ -165,10 +202,9 @@ if (typeof body !== "string" || !body) {
     });
 
     // 延迟执行
-    setTimeout(clean, 500);
-    setTimeout(clean, 1500);
-    setTimeout(clean, 3000);
-    setTimeout(clean, 5000);
+    [500, 1500, 3000, 5000].forEach(delay => {
+        setTimeout(clean, delay);
+    });
 
 })();
 `;
