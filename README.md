@@ -19,10 +19,6 @@ A collection of Loon plugins maintained by drifthel.
 
 针对常用 iOS 应用及网站进行广告过滤，减少开屏广告、信息流广告和不必要的推广内容。
 
-Plugin Links
-
-* GitHub Source
-* Raw Subscription
 
 Features
 
