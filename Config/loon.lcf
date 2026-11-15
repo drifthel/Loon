@@ -100,25 +100,24 @@ Sub-US = NameRegex, FilterKey = "^(?=.*((?i)🇺🇸|美国|波特兰|达拉斯|
 Sub-RA = NameRegex, FilterKey = "^(?=.*(.))(?!.*((?i)🇭🇰|🇯🇵|🇸🇬|🇺🇸|香港|日本|川日|东京|大阪|泉日|埼玉|新加坡|狮|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|到期|机场|下次|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|超时|收藏|福利|好友|失联|总计|重置|重新|设置|回国|校园|游戏|🎮|(\b(HK|HKG|Hong|MO|JP|JPN|Japan|SG|SGP|Singapore|US|USA|United States|America|USE|USED|TOTAL|EXPIRE|EMAIL|Panel|Channel|Author|Traffic)(\d+)?\b|(\d{4}-\d{2}-\d{2}|\dG)))).*$"
 
 [Proxy Group]
-手动选择 = select,DIRECT,Hong Kong,Japan,Singapore,United States,Rare Areas,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/relay.png
+手动选择 = select,DIRECT,Hong Kong,Japan,Singapore,United States,Rare Areas,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/relay.png
 
-时延优选 = url-test,Hong Kong,Japan,Singapore,United States,interval = 60,tolerance = 50,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/loadbalance.png
+时延优选 = url-test,Hong Kong,Japan,Singapore,United States,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/loadbalance.png
 
-Global = select,Sub-ALL,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/londoneye.png
+Global = select,Sub-ALL,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/londoneye.png
 
-Hong Kong = url-test,Sub-HK,interval = 60,tolerance = 50,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/skylines.png
+Hong Kong = url-test,Sub-HK,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/skylines.png
 
-Japan = url-test,Sub-JP,interval = 60,tolerance = 50,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/torii.png
+Japan = url-test,Sub-JP,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/torii.png
 
-Singapore = url-test,Sub-SG,interval = 60,tolerance = 50,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/merlion.png
+Singapore = url-test,Sub-SG,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/merlion.png
 
-United States = url-test,Sub-US,interval = 60,tolerance = 50,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/christtheredeemer.png
+United States = url-test,Sub-US,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/christtheredeemer.png
 
-Rare Areas = select,Sub-RA,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/stonehenge.png
+Rare Areas = select,Sub-RA,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/stonehenge.png
 
-AI = url-test,Japan,Singapore,United States,interval = 300,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Anthropic.png
+AI = url-test,Japan,Singapore,United States,interval = 300,tolerance = 50,img-url = https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/Anthropic.png
 [Proxy Chain]
-
 
 [Rule]
 
