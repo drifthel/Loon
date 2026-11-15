@@ -1,32 +1,62 @@
-Loon Plugins
+drifthel Loon Plugins
 
-一个持续维护与优化的 Loon 插件集合。
+A collection of Loon plugins maintained by drifthel.
 
-致力于改善 iOS 网络使用体验，提供广告过滤、网页增强、请求优化及个性化规则。
+专注于 iOS 广告过滤、网页增强、请求优化与个性化规则，持续改善网络使用体验。
 
-✨ Features
-
-* 广告过滤：减少 App 开屏广告、信息流广告及推广内容
-* 网页增强：优化网页浏览体验，清理不必要的推广元素
-* 请求优化：过滤不必要的网络请求
-* 自定义配置：支持按需启用和关闭不同功能
-* 持续维护：根据应用更新和实际使用反馈持续优化
+⸻
 
 📦 Plugins
 
-Plugin	Description	Status
-AdBlock	通用广告过滤	Developing
-WebEnhance	网页增强与内容清理	Planned
+AdBlock — 广告过滤插件
+
+针对常用 iOS 应用及网站进行广告过滤，减少开屏广告、信息流广告和不必要的推广内容。
+
+Plugin Links
+
+* GitHub Source
+* Raw Subscription
+
+Features
+
+* App 开屏广告过滤
+* 信息流及推广广告过滤
+* 常见应用广告请求拦截
+* 持续优化过滤规则
+
+Platform: Loon
+
+Status: Developing
+
+⸻
+
+✨ Project Goals
+
+* 提供实用、轻量的广告过滤规则
+* 优化常用 iOS 应用的使用体验
+* 支持独立功能开关与个性化配置
+* 持续维护并改进插件规则
+* 尽可能减少误拦截，保证应用正常使用
 
 📱 Requirements
 
 * iOS
 * Loon
 
-📌 Disclaimer
+🔄 Updates
 
-This project is maintained for personal use and learning purposes. All trademarks and third-party names belong to their respective owners.
+插件将根据实际使用情况持续更新，欢迎提交反馈与问题。
+
+⚠️ Disclaimer
+
+This project is an independent project maintained by drifthel and is not affiliated with Loon or any third-party application developers.
+
+All trademarks and product names belong to their respective owners.
 
 📄 License
 
-See individual plugin licenses and source attributions.
+Please refer to the original source and individual plugin licenses for applicable licensing terms.
+
+⸻
+
+Maintained by drifthel
