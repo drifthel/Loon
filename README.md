@@ -29,20 +29,28 @@
 </p>
 
 ---
-
 ## Overview | 项目概览
-
-| 项目 | 数量 | 说明 |
-|:--|--:|:--|
-| 插件订阅 | 41 | 插件功能与应用优化 |
-| 远程分流 | 37 | 远程网络规则 |
-| 策略组 | 9 | 代理策略管理 |
-| 节点筛选 | 6 | 订阅节点筛选 |
 
 | 项目 | 说明 | 链接 |
 |:--|:--|:--|
 | 广告过滤 | 自定义广告过滤插件 | [安装插件](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FPlugins%2FblockAds.plugin) · [查看源码](https://github.com/drifthel/Loon/blob/main/Plugins/blockAds.plugin) |
 | 配置文件 | Loon 主配置 `loon.lcf` | [查看配置](https://github.com/drifthel/Loon/blob/main/Config/loon.lcf) · [导入 Loon](https://www.nsloon.com/openloon/import?sub=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FConfig%2Floon.lcf) |
+
+## 🚀 自用机场推荐
+
+整理了几个个人分享的网络服务入口，供有需要的朋友参考。选择时建议结合自己的网络环境、使用需求和预算，先体验再购买。
+
+| 服务名称 | 推荐入口 |
+|---|---|
+| **GoFlybit** | [注册 / 了解详情](https://goflybit.com/register?code=t1Cdipwa) |
+| **赔钱机场** | [注册 / 了解详情](https://xn--mes358aby2apfg.com/register?code=pckfSiLV&cover=sfw) |
+| **良心云** | [注册 / 了解详情](https://xn--9kqz23b19z.com/#/register?code=XYhUHgA0) |
+
+> **推广声明**
+>
+> 以上链接包含个人推广邀请码。如果你通过这些链接注册或购买服务，我可能获得相应推广佣金，推广收益不会因此额外增加你的购买成本。
+
+**温馨提示：** 第三方网络服务的稳定性、速度及售后情况可能发生变化，请自行判断并谨慎选择。建议先体验，再决定是否购买。
 
 ## Plugins | 插件
 
