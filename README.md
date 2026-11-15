@@ -80,7 +80,6 @@
 | [自定义广告规则](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Frucu6.pages.dev%2FPlugins%2Fmyblockads.lpx) | 自定义广告过滤 |
 | [启动项优化](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fblackmatrix7%2Fios_rule_script%2Fmaster%2Fscript%2Fstartup%2Fstartup.lnplugin) | 应用启动项优化 |
 | [脚本转换工具](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fkelee.one%2FTool%2FLoon%2FLpx%2FScript-Hub.lpx) | Script-Hub（Kelee 来源） |
-| [脚本转换工具](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Floon.103516.xyz%2FPlugin%2FScript-Hub.lpx) | Script-Hub（103516 来源） |
 | [谷歌服务优化](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fkelee.one%2FTool%2FLoon%2FLpx%2FGoogle.lpx) | Google 服务增强 |
 | [苹果天气增强](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fkelee.one%2FTool%2FLoon%2FLpx%2FAppleWeatherEnhancer.lpx) | Apple 天气功能增强 |
 | [HTTPDNS 拦截](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fkelee.one%2FTool%2FLoon%2FLpx%2FBlock_HTTPDNS.lpx) | 拦截 HTTPDNS 请求 |
