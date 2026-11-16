@@ -1,0 +1,426 @@
+{
+  "name": "drifthel Loon Icons",
+  "description": "Icons from drifthel/Loon repository (Assets/Icons)",
+  "icons": [
+    {
+      "name": "Anthropic",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/Anthropic.png"
+    },
+    {
+      "name": "anthropic",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/anthropic.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/apple.png"
+    },
+    {
+      "name": "appleappstore",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleappstore.png"
+    },
+    {
+      "name": "applearcade",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applearcade.png"
+    },
+    {
+      "name": "applebooks",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applebooks.png"
+    },
+    {
+      "name": "appleclassic",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleclassic.png"
+    },
+    {
+      "name": "applefacetime",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applefacetime.png"
+    },
+    {
+      "name": "applegamecenter",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applegamecenter.png"
+    },
+    {
+      "name": "applehome",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applehome.png"
+    },
+    {
+      "name": "appleicloud",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleicloud.png"
+    },
+    {
+      "name": "appleitunesstore",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleitunesstore.png"
+    },
+    {
+      "name": "applemail",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applemail.png"
+    },
+    {
+      "name": "applemessages",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applemessages.png"
+    },
+    {
+      "name": "applemusic",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applemusic.png"
+    },
+    {
+      "name": "applenews",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applenews.png"
+    },
+    {
+      "name": "appleoriginal",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleoriginal.png"
+    },
+    {
+      "name": "applesafari",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applesafari.png"
+    },
+    {
+      "name": "applespringloaded",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applespringloaded.png"
+    },
+    {
+      "name": "applewallet",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applewallet.png"
+    },
+    {
+      "name": "appleweather",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/appleweather.png"
+    },
+    {
+      "name": "applewwdc23",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/applewwdc23.png"
+    },
+    {
+      "name": "atomlantiscloud",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/atomlantiscloud.png"
+    },
+    {
+      "name": "aws",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/aws.png"
+    },
+    {
+      "name": "azure",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/azure.png"
+    },
+    {
+      "name": "baidu",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/baidu.png"
+    },
+    {
+      "name": "betahub",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/betahub.png"
+    },
+    {
+      "name": "bigben",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/bigben.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/bilibili.png"
+    },
+    {
+      "name": "bilibilitv",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/bilibilitv.png"
+    },
+    {
+      "name": "bing",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/bing.png"
+    },
+    {
+      "name": "blinkload",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/blinkload.png"
+    },
+    {
+      "name": "blinkloadB",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/blinkloadB.png"
+    },
+    {
+      "name": "brandenburggate",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/brandenburggate.png"
+    },
+    {
+      "name": "categoryballoon",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryballoon.png"
+    },
+    {
+      "name": "categorybike",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorybike.png"
+    },
+    {
+      "name": "categorybook",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorybook.png"
+    },
+    {
+      "name": "categorybriefcase",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorybriefcase.png"
+    },
+    {
+      "name": "categorycalculator",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorycalculator.png"
+    },
+    {
+      "name": "categorycatalog",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorycatalog.png"
+    },
+    {
+      "name": "categoryfood",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryfood.png"
+    },
+    {
+      "name": "categoryglobe",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryglobe.png"
+    },
+    {
+      "name": "categorylifestyle",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorylifestyle.png"
+    },
+    {
+      "name": "categorymagazine",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorymagazine.png"
+    },
+    {
+      "name": "categorymedical",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorymedical.png"
+    },
+    {
+      "name": "categorymusic",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorymusic.png"
+    },
+    {
+      "name": "categorynavigation",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorynavigation.png"
+    },
+    {
+      "name": "categorynetworking",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorynetworking.png"
+    },
+    {
+      "name": "categorynews",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorynews.png"
+    },
+    {
+      "name": "categoryphoto",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryphoto.png"
+    },
+    {
+      "name": "categorypig",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorypig.png"
+    },
+    {
+      "name": "categorypolygon",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorypolygon.png"
+    },
+    {
+      "name": "categorypopcorn",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categorypopcorn.png"
+    },
+    {
+      "name": "categoryproductivity",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryproductivity.png"
+    },
+    {
+      "name": "categoryresearch",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryresearch.png"
+    },
+    {
+      "name": "categoryshopping",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/categoryshopping.png"
+    },
+    {
+      "name": "christtheredeemer",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/christtheredeemer.png"
+    },
+    {
+      "name": "cntower",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/cntower.png"
+    },
+    {
+      "name": "colosseum",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/colosseum.png"
+    },
+    {
+      "name": "degyax1",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/degyax1.png"
+    },
+    {
+      "name": "degyax2",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/degyax2.png"
+    },
+    {
+      "name": "degyax3",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/degyax3.png"
+    },
+    {
+      "name": "degyax4QvtamaX",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/degyax4QvtamaX.png"
+    },
+    {
+      "name": "degyaxminimal4QvtamaX",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/degyaxminimal4QvtamaX.png"
+    },
+    {
+      "name": "disneyplus",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/disneyplus.png"
+    },
+    {
+      "name": "dlercloud",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/dlercloud.png"
+    },
+    {
+      "name": "dots",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/dots.png"
+    },
+    {
+      "name": "eiffeltower",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/eiffeltower.png"
+    },
+    {
+      "name": "fallback",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fallback.png"
+    },
+    {
+      "name": "fastcloud",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fastcloud.png"
+    },
+    {
+      "name": "fishchips",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fishchips.png"
+    },
+    {
+      "name": "fishchips0",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fishchips0.png"
+    },
+    {
+      "name": "fishchips1",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fishchips1.png"
+    },
+    {
+      "name": "fishchips2",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fishchips2.png"
+    },
+    {
+      "name": "fishport",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/fishport.png"
+    },
+    {
+      "name": "friestash",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/friestash.png"
+    },
+    {
+      "name": "gcp",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/gcp.png"
+    },
+    {
+      "name": "glados",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/glados.png"
+    },
+    {
+      "name": "google",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/google.png"
+    },
+    {
+      "name": "gyeongbokgungpalace",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/gyeongbokgungpalace.png"
+    },
+    {
+      "name": "hogwarts",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/hogwarts.png"
+    },
+    {
+      "name": "hulu",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/hulu.png"
+    },
+    {
+      "name": "infiniport",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/infiniport.png"
+    },
+    {
+      "name": "ipinfo",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/ipinfo.png"
+    },
+    {
+      "name": "iringo",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/iringo.png"
+    },
+    {
+      "name": "leaningtowerofpisa",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/leaningtowerofpisa.png"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/linkedin.png"
+    },
+    {
+      "name": "loadbalance",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/loadbalance.png"
+    },
+    {
+      "name": "londoneye",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/londoneye.png"
+    },
+    {
+      "name": "loon",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/loon.png"
+    },
+    {
+      "name": "merlion",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/merlion.png"
+    },
+    {
+      "name": "meta",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/meta.png"
+    },
+    {
+      "name": "microsoft",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/microsoft.png"
+    },
+    {
+      "name": "nationalmonument",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/nationalmonument.png"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/netflix.png"
+    },
+    {
+      "name": "obeliscodebuenosaires",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/obeliscodebuenosaires.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/openai.png"
+    },
+    {
+      "name": "openit",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/openit.png"
+    },
+    {
+      "name": "oracle",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/oracle.png"
+    },
+    {
+      "name": "perfectlink",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/perfectlink.png"
+    },
+    {
+      "name": "petronastowers",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/petronastowers.png"
+    },
+    {
+      "name": "relay",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/relay.png"
+    },
+    {
+      "name": "skylines",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/skylines.png"
+    },
+    {
+      "name": "stonehenge",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/stonehenge.png"
+    },
+    {
+      "name": "torii",
+      "url": "https://raw.githubusercontent.com/drifthel/Loon/main/Assets/Icons/torii.png"
+    }
+  ]
+}
