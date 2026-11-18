@@ -3,12 +3,12 @@
   "description": "Loon 图标集配置文件",
   "icons": [
     {
-      "name": "Apple",
-      "url": "https://raw.githubusercontent.com/tomopte/Loon/main/Assets/Icons/Apple.png"
+      "name": "appleappstore",
+      "url": "https://raw.githubusercontent.com/tomopte/Loon/main/Assets/Icons/appleappstore.png"
     },
     {
-      "name": "AppStore",
-      "url": "https://raw.githubusercontent.com/tomopte/Loon/main/Assets/Icons/AppStore.png"
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/tomopte/Loon/main/Assets/Icons/Apple.png"
     },
     {
       "name": "Bilibili",
