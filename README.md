@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/drifthel/Loon">
+  <a href="https://github.com/tomopte/Loon">
     <img src="./Assets/github.svg" width="17" height="17" alt="GitHub">
     GitHub
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@drifthel">
+  <a href="https://www.threads.com/@tomopte">
     <img src="./Assets/threads.svg" width="17" height="17" alt="Threads">
     Threads
   </a>
@@ -33,8 +33,8 @@
 
 | 项目 | 说明 | 链接 |
 |:--|:--|:--|
-| 广告过滤 | 自定义广告过滤插件 | [安装插件](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FPlugins%2FblockAds.plugin) · [查看源码](https://github.com/drifthel/Loon/blob/main/Plugins/blockAds.plugin) |
-| 配置文件 | Loon 主配置 `loon.lcf` | [查看配置](https://github.com/drifthel/Loon/blob/main/Config/loon.lcf) · [导入 Loon](https://www.nsloon.com/openloon/import?sub=https%3A%2F%2Fraw.githubusercontent.com%2Fdrifthel%2FLoon%2Fmain%2FConfig%2Floon.lcf) |
+| 广告过滤 | 自定义广告过滤插件 | [安装插件](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Ftomopte%2FLoon%2Fmain%2FPlugins%2FblockAds.plugin) · [查看源码](https://github.com/tomopte/Loon/blob/main/Plugins/blockAds.plugin) |
+| 配置文件 | Loon 主配置 `loon.lcf` | [查看配置](https://github.com/tomopte/Loon/blob/main/Config/loon.lcf) · [导入 Loon](https://www.nsloon.com/openloon/import?sub=https%3A%2F%2Fraw.githubusercontent.com%2Ftomopte%2FLoon%2Fmain%2FConfig%2Floon.lcf) |
 
 ## 🚀 自用机场推荐
 
