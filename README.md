@@ -4,7 +4,7 @@
   <img src="./Assets/loon.png" width="80" alt="Loon">
 </p>
 
-<h1 align="center">drifthel / Loon</h1>
+<h1 align="center">tomopte / Loon</h1>
 
 <p align="center">
   Plugins · Configuration · Rules
@@ -75,7 +75,7 @@
 
 <p align="center">
   Maintained by
-  <a href="https://www.threads.com/@drifthel">
+  <a href="https://www.threads.com/@tomopte">
     <img src="./Assets/threads.svg" width="15" height="15" alt="Threads">
     drifthel
   </a>
